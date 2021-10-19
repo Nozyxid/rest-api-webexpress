@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Nozyxid/rest-api-web/blob/52cb2f78c198e70341b436029be5102b92aaac19/public/favicon/avatar.png&v=4" width="128" height="128"/>
+<img src="https://avatars.githubusercontent.com/u/92721624?v=4" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/rest%20api%20express-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
